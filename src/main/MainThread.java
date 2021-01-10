@@ -118,6 +118,8 @@ public class MainThread extends Thread{
                             clients.get(j).send(rispostaAltriGiocatori);
                     clientAttuale.send(risposta);
                 }
+                //TODO CHECK IF HA VINTO
+
             }
         }
     }
