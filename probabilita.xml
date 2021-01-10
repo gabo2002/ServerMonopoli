@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<casi>
+    <probabilita>
+        <id>1</id>
+        <testo>Interrogazione a sorpresa sulla divisione tra polinomi!\nPerdi 100 Badoni coins</testo>
+        <denaro>-100</denaro>
+    </probabilita>
+    <probabilita>
+        <id>2</id>
+        <testo>Andate fino al via!</testo>
+        <posizione via="true">0</posizione>
+    </probabilita>
+    <probabilita>
+        <id>3</id>
+        <testo>Sciopero di trenord il giorno prima della verifica!\nPerdi 50 Badoni coins</testo>
+        <denaro>-50</denaro>
+    </probabilita>
+    <probabilita>
+        <id>4</id>
+        <testo>Gita scolastica interna! Vai in laboratorio di fisica 1</testo>
+        <posizione via="true">=18</posizione>
+    </probabilita>
+    <probabilita>
+        <id>5</id>
+        <testo>Hai dimenticato il materiale di motoria!\nPerdi 30 Badoni coins</testo>
+        <denaro>-30</denaro>
+    </probabilita>
+    <probabilita>
+        <id>6</id>
+        <testo>Prova di evacuazione! recati nel parcheggio del Badoni</testo>
+        <posizione via="true">=20</posizione>
+    </probabilita>
+    <probabilita>
+        <id>7</id>
+        <testo>Fai 3 passi in avanti con tanti auguri!</testo>
+        <posizione via="true">+3</posizione>
+    </probabilita>
+    <probabilita>
+        <id>8</id>
+        <testo>Ti sei perso al Badoni!\nFinisci nel laboratorio di inglese</testo>
+        <posizione via="true">=1</posizione>
+    </probabilita>
+    <probabilita>
+        <id>9</id>
+        <testo>La prof si dimentica di preparare la verifica\nRicevi 150 Badoni coins</testo>
+        <denaro>+150</denaro>
+    </probabilita>
+    <probabilita>
+        <id>10</id>
+        <testo>Hai vinto la lotteria!\nRitirare 100 Badoni coins</testo>
+        <denaro>+100</denaro>
+    </probabilita>
+    <probabilita>
+        <id>11</id>
+        <testo>Hai seguito le orme del tuo prof di telecomunicazioni laboratorio\nAvete vinto un concorso di bellezza!\nRitirate 50 Badoni coins</testo>
+        <denaro>+50</denaro>
+    </probabilita>
+    <probabilita>
+        <id>12</id>
+        <testo>Treno cancellato!\nSalta un turno</testo>
+        <pausa>1</pausa>
+    </probabilita>
+    <probabilita>
+        <id>13</id>
+        <testo>Consiglio di classe straordinario!\nPerdi 150 Badoni coins</testo>
+        <denaro>-150</denaro>
+    </probabilita>
+    <probabilita>
+        <id>14</id>
+        <testo>Furto con scasso al Badoni!\nPerdi 200 Badoni coins</testo>
+        <denaro>-200</denaro>
+    </probabilita>
+    <probabilita>
+        <id>15</id>
+        <testo>La ministra Azzolina ti obbliga ad upgradeare\nogni tuo banco con banchi a rotelle\ne ogni tua cattedra con cattedre a rotelle\nPaga 30 per banco e 90 per cattedra</testo>
+        <denaro>upgrade</denaro>
+    </probabilita>
+    <probabilita>
+        <id>16</id>
+        <testo>Sei stato bocciato! Torna al via </testo>
+        <posizione via="false">0</posizione>
+    </probabilita>
+    <probabilita>
+        <id>17</id>
+        <testo>Hai vinto il premio Enrico Sirtori!\nRitirate 250 Badoni coins</testo>
+        <denaro>+250</denaro>
+    </probabilita>
+    <probabilita>
+        <id>18</id>
+        <testo>Sei stato promosso!\nVai al via</testo>
+        <posizione via="true">0</posizione>
+    </probabilita>
+    <probabilita>
+        <id>19</id>
+        <testo>Ti sei accorto di aver sbagliato indirizzo!\nFai 5 passi indietro</testo>
+        <posizione via="false">-5</posizione>
+    </probabilita>
+    <probabilita>
+        <id>20</id>
+        <testo>Hai bevuto dell'acqua in un laboratorio!\nFila diretto in prigione</testo>
+        <posizione via="false">=10</posizione>
+    </probabilita>
+    <probabilita>
+        <id>21</id>
+        <testo>Pulizia tappetini della palestrina\nperdi 50 Badoni coins</testo>
+        <denaro>-50</denaro>
+    </probabilita>
+    <probabilita>
+        <id>22</id>
+        <testo>Vai in alternanza e perdi 100 badoni coins</testo>
+        <denaro>-100</denaro>
+    </probabilita>
+    <probabilita>
+        <id>23</id>
+        <testo>La tua classe vince impresa in azione e ti prendi\ntutti i meriti\nVinci 100 badoni coins</testo>
+        <denaro>+100</denaro>
+    </probabilita>
+</casi>

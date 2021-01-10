@@ -1,0 +1,123 @@
+Ora: 03-01-2021 09:56:46 : Server avviato!
+Ora: 03-01-2021 09:56:46 : Server in ascolto sulla porta 50000
+Ora: 03-01-2021 09:56:46 : Server avviato!
+Ora: 03-01-2021 09:56:46 : Server avviato!
+Ora: 03-01-2021 09:56:46 : Lettura file completata!
+Ora: 03-01-2021 09:56:59 : Nuova connessione da: 127.0.0.1
+Ora: 03-01-2021 09:56:59 : Server avviato!
+Ora: 03-01-2021 09:57:09 : Nuova connessione da: 127.0.0.1
+Ora: 03-01-2021 09:57:09 : Server avviato!
+Ora: 03-01-2021 09:57:21 : Nuova connessione da: 127.0.0.1
+Ora: 03-01-2021 09:57:21 : Server avviato!
+Ora: 03-01-2021 10:01:34 : Server avviato!
+Ora: 03-01-2021 10:01:34 : Server in ascolto sulla porta 50000
+Ora: 03-01-2021 10:01:34 : Server avviato!
+Ora: 03-01-2021 10:01:34 : Server avviato!
+Ora: 03-01-2021 10:01:34 : Lettura file completata!
+Ora: 03-01-2021 10:01:38 : Nuova connessione da: 127.0.0.1
+Ora: 03-01-2021 10:01:38 : Server avviato!
+Ora: 03-01-2021 10:01:43 : Nuova connessione da: 127.0.0.1
+Ora: 03-01-2021 10:01:43 : Server avviato!
+Ora: 03-01-2021 10:01:47 : Nuova connessione da: 127.0.0.1
+Ora: 03-01-2021 10:01:47 : Server avviato!
+Ora: 03-01-2021 10:01:54 : Pacchetto di risposta dal client 127.0.1.1 non valido!
+Ora: 03-01-2021 10:02:58 : Server avviato!
+Ora: 03-01-2021 10:02:58 : Server in ascolto sulla porta 50000
+Ora: 03-01-2021 10:02:58 : Server avviato!
+Ora: 03-01-2021 10:02:58 : Server avviato!
+Ora: 03-01-2021 10:02:58 : Lettura file completata!
+Ora: 03-01-2021 10:03:01 : Nuova connessione da: 127.0.0.1
+Ora: 03-01-2021 10:03:01 : Server avviato!
+Ora: 03-01-2021 10:03:06 : Nuova connessione da: 127.0.0.1
+Ora: 03-01-2021 10:03:06 : Server avviato!
+Ora: 03-01-2021 10:03:11 : Nuova connessione da: 127.0.0.1
+Ora: 03-01-2021 10:03:11 : Server avviato!
+Ora: 03-01-2021 10:03:22 : Pacchetto di risposta dal client 127.0.1.1 non valido!
+Ora: 03-01-2021 10:05:03 : Server avviato!
+Ora: 03-01-2021 10:05:03 : Server in ascolto sulla porta 50000
+Ora: 03-01-2021 10:05:03 : Server avviato!
+Ora: 03-01-2021 10:05:03 : Server avviato!
+Ora: 03-01-2021 10:05:04 : Lettura file completata!
+Ora: 03-01-2021 10:05:07 : Nuova connessione da: 127.0.0.1
+Ora: 03-01-2021 10:05:07 : Server avviato!
+Ora: 03-01-2021 10:05:12 : Nuova connessione da: 127.0.0.1
+Ora: 03-01-2021 10:05:12 : Server avviato!
+Ora: 03-01-2021 10:05:17 : Nuova connessione da: 127.0.0.1
+Ora: 03-01-2021 10:05:17 : Server avviato!
+Ora: 03-01-2021 10:08:02 : Server avviato!
+Ora: 03-01-2021 10:08:02 : Server in ascolto sulla porta 50000
+Ora: 03-01-2021 10:08:02 : Server avviato!
+Ora: 03-01-2021 10:08:02 : Server avviato!
+Ora: 03-01-2021 10:08:02 : Lettura file completata!
+Ora: 03-01-2021 10:08:04 : Nuova connessione da: 127.0.0.1
+Ora: 03-01-2021 10:08:04 : Server avviato!
+Ora: 03-01-2021 10:08:11 : Nuova connessione da: 127.0.0.1
+Ora: 03-01-2021 10:08:11 : Server avviato!
+Ora: 03-01-2021 10:08:16 : Nuova connessione da: 127.0.0.1
+Ora: 03-01-2021 10:08:16 : Server avviato!
+Ora: 03-01-2021 10:09:15 : Pacchetto di risposta dal client 127.0.1.1 non valido!
+Ora: 03-01-2021 10:09:43 : Server avviato!
+Ora: 03-01-2021 10:09:43 : Server in ascolto sulla porta 50000
+Ora: 03-01-2021 10:09:43 : Server avviato!
+Ora: 03-01-2021 10:09:43 : Server avviato!
+Ora: 03-01-2021 10:09:43 : Lettura file completata!
+Ora: 03-01-2021 10:09:46 : Nuova connessione da: 127.0.0.1
+Ora: 03-01-2021 10:09:46 : Server avviato!
+Ora: 03-01-2021 10:10:02 : Nuova connessione da: 127.0.0.1
+Ora: 03-01-2021 10:10:02 : Server avviato!
+Ora: 03-01-2021 10:10:08 : Nuova connessione da: 127.0.0.1
+Ora: 03-01-2021 10:10:08 : Server avviato!
+Ora: 03-01-2021 10:10:20 : Pacchetto di risposta dal client 127.0.1.1 non valido!
+Ora: 03-01-2021 10:14:13 : Server avviato!
+Ora: 03-01-2021 10:14:13 : Server in ascolto sulla porta 50000
+Ora: 03-01-2021 10:14:13 : Server avviato!
+Ora: 03-01-2021 10:14:13 : Server avviato!
+Ora: 03-01-2021 10:14:13 : Lettura file completata!
+Ora: 03-01-2021 10:14:15 : Nuova connessione da: 127.0.0.1
+Ora: 03-01-2021 10:14:15 : Server avviato!
+Ora: 03-01-2021 10:14:21 : Nuova connessione da: 127.0.0.1
+Ora: 03-01-2021 10:14:21 : Server avviato!
+Ora: 03-01-2021 10:14:26 : Nuova connessione da: 127.0.0.1
+Ora: 03-01-2021 10:14:26 : Server avviato!
+Ora: 03-01-2021 11:03:44 : Server avviato!
+Ora: 03-01-2021 11:03:44 : Server in ascolto sulla porta 50000
+Ora: 03-01-2021 11:03:44 : Server avviato!
+Ora: 03-01-2021 11:03:44 : Server avviato!
+Ora: 03-01-2021 11:03:44 : Lettura file completata!
+Ora: 03-01-2021 11:03:53 : Nuova connessione da: 127.0.0.1
+Ora: 03-01-2021 11:03:53 : Server avviato!
+Ora: 03-01-2021 11:26:08 : Server avviato!
+Ora: 03-01-2021 11:26:08 : Server in ascolto sulla porta 50000
+Ora: 03-01-2021 11:26:08 : Server avviato!
+Ora: 03-01-2021 11:26:08 : Server avviato!
+Ora: 03-01-2021 11:26:08 : Lettura file completata!
+Ora: 03-01-2021 13:44:39 : Server avviato!
+Ora: 03-01-2021 13:44:39 : Server in ascolto sulla porta 50000
+Ora: 03-01-2021 13:44:39 : Server avviato!
+Ora: 03-01-2021 13:44:39 : Server avviato!
+Ora: 03-01-2021 13:44:39 : Lettura file completata!
+Ora: 03-01-2021 13:44:46 : Nuova connessione da: 127.0.0.1
+Ora: 03-01-2021 13:44:46 : Server avviato!
+Ora: 03-01-2021 13:44:51 : Nuova connessione da: 127.0.0.1
+Ora: 03-01-2021 13:44:51 : Server avviato!
+Ora: 03-01-2021 13:44:54 : Nuova connessione da: 127.0.0.1
+Ora: 03-01-2021 13:44:54 : Server avviato!
+Ora: 03-01-2021 13:45:25 : Pacchetto di risposta dal client 127.0.1.1 non valido!
+Ora: 03-01-2021 13:48:21 : Pacchetto di risposta dal client 127.0.1.1 non valido!
+Ora: 08-01-2021 21:41:16 : Server avviato!
+Ora: 08-01-2021 21:41:16 : Server in ascolto sulla porta 50000
+Ora: 08-01-2021 21:41:16 : Server avviato!
+Ora: 08-01-2021 21:41:16 : Server avviato!
+Ora: 08-01-2021 21:41:17 : Lettura file completata!
+Ora: 09-01-2021 15:23:30 : Server avviato!
+Ora: 09-01-2021 15:23:30 : Server in ascolto sulla porta 50000
+Ora: 09-01-2021 15:23:30 : Server avviato!
+Ora: 09-01-2021 15:23:30 : Server avviato!
+Ora: 09-01-2021 15:23:30 : Lettura file completata!
+Ora: 09-01-2021 15:23:32 : Nuova connessione da: 127.0.0.1
+Ora: 09-01-2021 15:23:32 : Server avviato!
+Ora: 09-01-2021 15:47:05 : Server avviato!
+Ora: 09-01-2021 15:47:05 : Server in ascolto sulla porta 50000
+Ora: 09-01-2021 15:47:05 : Server avviato!
+Ora: 09-01-2021 15:47:05 : Server avviato!
+Ora: 09-01-2021 15:47:05 : Lettura file completata!

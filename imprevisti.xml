@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<imprevisti>
+    <imprevisto>
+        <id>1</id>
+        <testo>Luca Sal ha appena hackerato il tuo conto corrente! 100 Badoni coins di furto'</testo>
+        <denaro>-100</denaro>
+    </imprevisto>
+    <imprevisto>
+        <id>2</id>
+        <testo>E' il tuo compleanno! Ricevi 50 Badoni coins</testo>
+        <denaro>+50</denaro>
+    </imprevisto>
+    <imprevisto>
+        <id>3</id>
+        <testo>Fai 3 passi indietro con tanti auguri!\n</testo>
+        <posizione via="false">-3</posizione>
+    </imprevisto>
+    <imprevisto>
+        <id>4</id>
+        <testo>Complimenti! Hai hacherato le macchinette! Ricevi 100 Badoni coins</testo>
+        <denaro>+100</denaro>
+    </imprevisto>
+    <imprevisto>
+        <id>5</id>
+        <testo>Il preside ti ha convocato in presidenza!</testo>
+        <posizione true="false">=39</posizione>
+    </imprevisto>
+    <imprevisto>
+        <id>6</id>
+        <testo>Hai salutato Antonio, ma stavi indossando una maglia dell'Inter.\nNasconditi nel laboratorio di informatica 1\nSe passi dal via ritirare 200</testo>
+        <posizione via="true">=31</posizione>
+    </imprevisto>
+    <imprevisto>
+        <id>7</id>
+        <testo>Hai salutato Antonio e sei milanista!\nPer te 200 Badoni coins</testo>
+        <denaro>+200</denaro>
+    </imprevisto>
+    <imprevisto>
+        <id>8</id>
+        <testo>Hai utilizzato il goto in un programma in C\nFila in prigione</testo>
+        <posizione via="false">=10</posizione>
+    </imprevisto>
+    <imprevisto>
+        <id>9</id>
+        <testo>Accidenti! Ti sei bucato con un trapano a colonna\nSpese mediche: 300 Badoni coins</testo>
+        <denaro>-300</denaro>
+    </imprevisto>
+    <imprevisto>
+        <id>10</id>
+        <testo>La banca ti paga gli interessi del tuo conto corrente! ritirate 100 Badoni coins</testo>
+        <denaro>+100</denaro>
+    </imprevisto>
+    <imprevisto>
+        <id>11</id>
+        <testo>Multa di 75 Badoni coins per aver utilizzato il telefono in classe</testo>
+        <denaro>-75</denaro>
+    </imprevisto>
+    <imprevisto>
+        <id>12</id>
+        <testo>Verifica a sorpresa su Dante!\nRifugiati in officina</testo>
+        <posizione via="true">=26</posizione>
+    </imprevisto>
+    <imprevisto>
+        <id>13</id>
+        <testo>Ritardo dei mezzi pubblici!\nSalta il prossimo turno</testo>
+        <pausa>1</pausa>
+    </imprevisto>
+    <imprevisto>
+        <id>14</id>
+        <testo>Lettera di protesta al preside di dubbia moralita'!\nDritto in galera</testo>
+        <posizione via="false">=10</posizione>
+    </imprevisto>
+    <imprevisto>
+        <id>15</id>
+        <testo>Esplosione proveniente dalla sala caldaie!\nRicevi 500 Badoni coins per danni e salti due turni per riprenderti</testo>
+        <denaro>+500</denaro>
+        <pausa>2</pausa>
+    </imprevisto>
+    <imprevisto>
+        <id>16</id>
+        <testo>Tasse scolastiche! Versa 120 Badoni coins di contributo volontario</testo>
+        <denaro>-200</denaro>
+    </imprevisto>
+    <imprevisto>
+        <id>17</id>
+        <testo>La ministra Azzolina ti obbliga ad upgradeare\nogni tuo banco con banchi a rotelle\ne ogni tua cattedra con cattedre a rotelle\nPaga 30 per banco e 90 per cattedra</testo>
+        <denaro>upgrade</denaro>
+    </imprevisto>
+    <imprevisto>
+        <id>18</id>
+        <testo>Devi studiare 17 canti della Divina Commedia\nSalta 2 turni</testo>
+        <pausa>2</pausa>
+    </imprevisto>
+    <imprevisto>
+        <id>19</id>
+        <testo>Coda dal paninaro!\nSalta un turno</testo>
+        <pausa>1</pausa>
+    </imprevisto>
+    <imprevisto>
+        <id>20</id>
+        <testo>Sei stato beccato a copiare\nPerdi 150 Badoni coins</testo>
+        <denaro>-150</denaro>
+    </imprevisto>
+    <imprevisto>
+        <id>21</id>
+        <testo>Upgrade al materiale di laboratoahahhahahahaha\nma ci credi anche? Guadagna 100 Badoni coins\nche tanto non verranno mai investiti</testo>
+        <denaro>+100</denaro>
+    </imprevisto>
+    <imprevisto>
+        <id>22</id>
+        <testo>Incontri il tuo prog di officina mentre scendevi dalle scale\nPerdi 100 badoni coins</testo>
+        <denaro>-100</denaro>
+    </imprevisto>
+    <imprevisto>
+        <id>23</id>
+        <testo>La tua prof va in maternita'\nVinci 100 badoni coins</testo>
+        <denaro>+100</denaro>
+    </imprevisto>
+</imprevisti>

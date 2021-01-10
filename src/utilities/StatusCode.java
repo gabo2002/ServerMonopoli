@@ -1,0 +1,20 @@
+package utilities;
+
+public enum StatusCode {
+    DEFAULT_VALUE,
+    STATUS_READY,
+    DADI,
+    ID_IMPREVISTO,
+    ID_PROBABILITA,
+    PRIGIONIERO,
+    BANCAROTTA,
+    SPESA,
+    GUADAGNO,
+    PAUSA,
+    COMPRA_TERRENO,
+    COSTRUISCI_CASA,
+    COSTRUISCI_ALBERGO,
+    IPOTECA_TERRITORIO,
+    VENDI_CASA,
+    VENDI_ALBERGO
+}

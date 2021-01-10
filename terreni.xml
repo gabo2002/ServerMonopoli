@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<terreni>
+    <terreno edibile="false" acquistabile="false">
+        <id>0</id>
+        <nome>Via</nome>
+    </terreno>
+    <terreno edibile="true" acquistabile="true">
+        <id>1</id>
+        <nome>Lab Inglese</nome>
+        <colore>Marrone</colore>
+        <valore>60</valore>
+        <prezzoCostruzioneCasa>50</prezzoCostruzioneCasa>
+        <prezzoCostruzioneAlbergo>50</prezzoCostruzioneAlbergo>
+        <soloTerreno>2</soloTerreno>
+        <aCasa>60</aCasa>
+        <albergo>450</albergo>
+    </terreno>
+    <terreno edibile="false" acquistabile="false">
+        <id>2</id>
+        <nome>probabilita</nome>
+    </terreno>
+    <terreno edibile="true" acquistabile="true">
+        <id>3</id>
+        <nome>Aula Audiovisivi</nome>
+        <colore>Marrone</colore>
+        <valore>60</valore>
+        <prezzoCostruzioneCasa>50</prezzoCostruzioneCasa>
+        <prezzoCostruzioneAlbergo>50</prezzoCostruzioneAlbergo>
+        <soloTerreno>4</soloTerreno>
+        <aCasa>60</aCasa>
+        <albergo>450</albergo>
+    </terreno>
+    <terreno edibile="false" acquistabile="false">
+        <id>4</id>
+        <nome>Tassa scolastica</nome>
+        <soloTerreno>200</soloTerreno>
+    </terreno>
+    <terreno edibile="false" acquistabile="true">
+        <id>5</id>
+        <nome>Linea Lecco Sondrio</nome>
+        <valore>200</valore>
+        <linea></linea>
+    </terreno>
+    <terreno edibile="true" acquistabile="true">
+        <id>6</id>
+        <nome>Palestra ex-officina</nome>
+        <colore>Azzurro</colore>
+        <valore>100</valore>
+        <prezzoCostruzioneCasa>50</prezzoCostruzioneCasa>
+        <prezzoCostruzioneAlbergo>50</prezzoCostruzioneAlbergo>
+        <soloTerreno>6</soloTerreno>
+        <aCasa>70</aCasa>
+        <albergo>550</albergo>
+    </terreno>
+    <terreno edibile="false" acquistabile="false">
+        <id>7</id>
+        <nome>Imprevisto</nome>
+    </terreno>
+    <terreno edibile="true" acquistabile="true">
+        <id>8</id>
+        <nome>Palestrina</nome>
+        <colore>Azzurro</colore>
+        <valore>100</valore>
+        <prezzoCostruzioneCasa>50</prezzoCostruzioneCasa>
+        <prezzoCostruzioneAlbergo>50</prezzoCostruzioneAlbergo>
+        <soloTerreno>6</soloTerreno>
+        <aCasa>70</aCasa>
+        <albergo>550</albergo>
+    </terreno>
+    <terreno edibile="true" acquistabile="true">
+        <id>9</id>
+        <nome>Palestra</nome>
+        <colore>Azzurro</colore>
+        <valore>120</valore>
+        <prezzoCostruzioneCasa>50</prezzoCostruzioneCasa>
+        <prezzoCostruzioneAlbergo>50</prezzoCostruzioneAlbergo>
+        <soloTerreno>4</soloTerreno>
+        <aCasa>75</aCasa>
+        <albergo>600</albergo>
+    </terreno>
+    <terreno edibile="false" acquistabile="false">
+        <id>10</id>
+        <nome>Prigione</nome>
+    </terreno>
+    <terreno edibile="true" acquistabile="true">
+        <id>11</id>
+        <nome>Laboratorio CNC</nome>
+        <colore>Magenta</colore>
+        <valore>140</valore>
+        <prezzoCostruzioneCasa>100</prezzoCostruzioneCasa>
+        <prezzoCostruzioneAlbergo>100</prezzoCostruzioneAlbergo>
+        <soloTerreno>10</soloTerreno>
+        <aCasa>85</aCasa>
+        <albergo>750</albergo>
+    </terreno>
+    <terreno edibile="false" acquistabile="true">
+        <id>12</id>
+        <nome>Macchinetta 1</nome>
+        <valore>150</valore>
+        <soloTerreno>50</soloTerreno>
+    </terreno>
+    <terreno edibile="true" acquistabile="true">
+        <id>13</id>
+        <nome>Laboratorio Simulazione</nome>
+        <colore>Magenta</colore>
+        <valore>140</valore>
+        <prezzoCostruzioneCasa>100</prezzoCostruzioneCasa>
+        <prezzoCostruzioneAlbergo>100</prezzoCostruzioneAlbergo>
+        <soloTerreno>10</soloTerreno>
+        <aCasa>85</aCasa>
+        <albergo>750</albergo>
+    </terreno>
+    <terreno edibile="true" acquistabile="true">
+        <id>14</id>
+        <nome>Laboratorio Cad</nome>
+        <colore>Magenta</colore>
+        <valore>160</valore>
+        <prezzoCostruzioneCasa>100</prezzoCostruzioneCasa>
+        <prezzoCostruzioneAlbergo>100</prezzoCostruzioneAlbergo>
+        <soloTerreno>12</soloTerreno>
+        <aCasa>90</aCasa>
+        <albergo>900</albergo>
+    </terreno>
+    <terreno edibile="false" acquistabile="true">
+        <id>15</id>
+        <nome>Linea Besanino</nome>
+        <valore>200</valore>
+        <linea></linea>
+    </terreno>
+    <terreno edibile="true" acquistabile="true">
+        <id>16</id>
+        <nome>Laboratorio chimica</nome>
+        <colore>Arancione</colore>
+        <valore>180</valore>
+        <prezzoCostruzioneCasa>100</prezzoCostruzioneCasa>
+        <prezzoCostruzioneAlbergo>100</prezzoCostruzioneAlbergo>
+        <soloTerreno>14</soloTerreno>
+        <aCasa>100</aCasa>
+        <albergo>950</albergo>
+    </terreno>
+    <terreno edibile="false" acquistabile="false">
+        <id>17</id>
+        <nome>probabilita</nome>
+    </terreno>
+    <terreno edibile="true" acquistabile="true">
+        <id>18</id>
+        <nome>Laboratorio Fisica 1</nome>
+        <colore>Arancione</colore>
+        <valore>180</valore>
+        <prezzoCostruzioneCasa>100</prezzoCostruzioneCasa>
+        <prezzoCostruzioneAlbergo>100</prezzoCostruzioneAlbergo>
+        <soloTerreno>14</soloTerreno>
+        <aCasa>100</aCasa>
+        <albergo>950</albergo>
+    </terreno>
+    <terreno edibile="true" acquistabile="true">
+        <id>19</id>
+        <nome>Laboratorio Fisica 2</nome>
+        <colore>Arancione</colore>
+        <valore>60</valore>
+        <prezzoCostruzioneCasa>100</prezzoCostruzioneCasa>
+        <prezzoCostruzioneAlbergo>100</prezzoCostruzioneAlbergo>
+        <soloTerreno>16</soloTerreno>
+        <aCasa>105</aCasa>
+        <albergo>1000</albergo>
+    </terreno>
+    <terreno edibile="false" acquistabile="false">
+        <id>20</id>
+        <nome>Parcheggio</nome>
+    </terreno>
+    <terreno edibile="true" acquistabile="true">
+        <id>21</id>
+        <nome>Laboratorio Elettronica</nome>
+        <colore>Rosso</colore>
+        <valore>220</valore>
+        <prezzoCostruzioneCasa>150</prezzoCostruzioneCasa>
+        <prezzoCostruzioneAlbergo>150</prezzoCostruzioneAlbergo>
+        <soloTerreno>18</soloTerreno>
+        <aCasa>110</aCasa>
+        <albergo>1050</albergo>
+    </terreno>
+    <terreno edibile="false" acquistabile="false">
+        <id>22</id>
+        <nome>Imprevisto</nome>
+    </terreno>
+    <terreno edibile="true" acquistabile="true">
+        <id>23</id>
+        <nome>Laboratorio Elettrotecnica</nome>
+        <colore>Rosso</colore>
+        <valore>220</valore>
+        <prezzoCostruzioneCasa>150</prezzoCostruzioneCasa>
+        <prezzoCostruzioneAlbergo>150</prezzoCostruzioneAlbergo>
+        <soloTerreno>18</soloTerreno>
+        <aCasa>105</aCasa>
+        <albergo>1050</albergo>
+    </terreno>
+    <terreno edibile="true" acquistabile="true">
+        <id>24</id>
+        <nome>Laboratorio TPSEE</nome>
+        <colore>Rosso</colore>
+        <valore>60</valore>
+        <prezzoCostruzioneCasa>150</prezzoCostruzioneCasa>
+        <prezzoCostruzioneAlbergo>150</prezzoCostruzioneAlbergo>
+        <soloTerreno>20</soloTerreno>
+        <aCasa>110</aCasa>
+        <albergo>1100</albergo>
+    </terreno>
+    <terreno edibile="false" acquistabile="true">
+        <id>25</id>
+        <nome>Linea Lecco-Bergamo</nome>
+        <valore>200</valore>
+        <linea></linea>
+    </terreno>
+    <terreno edibile="true" acquistabile="true">
+        <id>26</id>
+        <nome>Officina</nome>
+        <colore>Giallo</colore>
+        <valore>260</valore>
+        <prezzoCostruzioneCasa>150</prezzoCostruzioneCasa>
+        <prezzoCostruzioneAlbergo>150</prezzoCostruzioneAlbergo>
+        <soloTerreno>22</soloTerreno>
+        <aCasa>130</aCasa>
+        <albergo>1150</albergo>
+    </terreno>
+    <terreno edibile="true" acquistabile="true">
+        <id>27</id>
+        <nome>Laboratorio Sistemi Meccanici</nome>
+        <colore>Giallo</colore>
+        <valore>260</valore>
+        <prezzoCostruzioneCasa>150</prezzoCostruzioneCasa>
+        <prezzoCostruzioneAlbergo>150</prezzoCostruzioneAlbergo>
+        <soloTerreno>22</soloTerreno>
+        <aCasa>130</aCasa>
+        <albergo>1150</albergo>
+    </terreno>
+    <terreno edibile="false" acquistabile="true">
+        <id>28</id>
+        <nome>Macchinette 2</nome>
+        <valore>150</valore>
+        <soloTerreno>50</soloTerreno>
+    </terreno>
+    <terreno edibile="true" acquistabile="true">
+        <id>29</id>
+        <nome>Reparti lavorazione</nome>
+        <colore>Giallo</colore>
+        <valore>280</valore>
+        <prezzoCostruzioneCasa>150</prezzoCostruzioneCasa>
+        <prezzoCostruzioneAlbergo>150</prezzoCostruzioneAlbergo>
+        <soloTerreno>24</soloTerreno>
+        <aCasa>140</aCasa>
+        <albergo>1200</albergo>
+    </terreno>
+    <terreno edibile="false" acquistabile="false">
+        <id>30</id>
+        <nome>Vai in prigione!</nome>
+    </terreno>
+    <terreno edibile="true" acquistabile="true">
+        <id>31</id>
+        <nome>Laboratorio info 1</nome>
+        <colore>Verde</colore>
+        <valore>300</valore>
+        <prezzoCostruzioneCasa>200</prezzoCostruzioneCasa>
+        <prezzoCostruzioneAlbergo>200</prezzoCostruzioneAlbergo>
+        <soloTerreno>26</soloTerreno>
+        <aCasa>170</aCasa>
+        <albergo>1275</albergo>
+    </terreno>
+    <terreno edibile="true" acquistabile="true">
+        <id>32</id>
+        <nome>Laboratorio info 2</nome>
+        <colore>Verde</colore>
+        <valore>300</valore>
+        <prezzoCostruzioneCasa>200</prezzoCostruzioneCasa>
+        <prezzoCostruzioneAlbergo>200</prezzoCostruzioneAlbergo>
+        <soloTerreno>26</soloTerreno>
+        <aCasa>170</aCasa>
+        <albergo>1275</albergo>
+    </terreno>
+    <terreno edibile="false" acquistabile="false">
+        <id>33</id>
+        <nome>Probabilita</nome>
+        <valore>60</valore>
+    </terreno>
+    <terreno edibile="true" acquistabile="true">
+        <id>34</id>
+        <nome>Laboratorio info 3</nome>
+        <colore>Verde</colore>
+        <valore>320</valore>
+        <prezzoCostruzioneCasa>200</prezzoCostruzioneCasa>
+        <prezzoCostruzioneAlbergo>200</prezzoCostruzioneAlbergo>
+        <soloTerreno>28</soloTerreno>
+        <aCasa>180</aCasa>
+        <albergo>1400</albergo>
+    </terreno>
+    <terreno edibile="false" acquistabile="true">
+        <id>35</id>
+        <nome>Linea Lecco-Milano</nome>
+        <valore>60</valore>
+        <linea></linea>
+    </terreno>
+    <terreno edibile="false" acquistabile="false">
+        <id>36</id>
+        <nome>Imprevisto</nome>
+    </terreno>
+    <terreno edibile="true" acquistabile="true">
+        <id>37</id>
+        <nome>Ufficio tecnico</nome>
+        <colore>Blu</colore>
+        <valore>350</valore>
+        <prezzoCostruzioneCasa>250</prezzoCostruzioneCasa>
+        <prezzoCostruzioneAlbergo>250</prezzoCostruzioneAlbergo>
+        <soloTerreno>35</soloTerreno>
+        <aCasa>200</aCasa>
+        <albergo>1500</albergo>
+    </terreno>
+    <terreno edibile="false" acquistabile="false">
+        <id>38</id>
+        <nome>Tassa gita scolastica</nome>
+        <soloTerreno>100</soloTerreno>
+    </terreno>
+    <terreno edibile="true" acquistabile="true">
+        <id>39</id>
+        <nome>Presidenza</nome>
+        <colore>Blu</colore>
+        <valore>400</valore>
+        <prezzoCostruzioneCasa>250</prezzoCostruzioneCasa>
+        <prezzoCostruzioneAlbergo>250</prezzoCostruzioneAlbergo>
+        <soloTerreno>50</soloTerreno>
+        <aCasa>250</aCasa>
+        <albergo>2000</albergo>
+    </terreno>
+</terreni>

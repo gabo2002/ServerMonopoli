@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ServerMonopoli:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ServerMonopoli_jar</output-path>
+    <root id="archive" name="ServerMonopoli.jar">
+      <element id="module-output" name="ServerMonopoli" />
+      <element id="file-copy" path="$PROJECT_DIR$/../monopoli/imprevisti.xml" />
+      <element id="file-copy" path="$PROJECT_DIR$/../monopoli/probabilita.xml" />
+      <element id="file-copy" path="$PROJECT_DIR$/../monopoli/terreni.xml" />
+    </root>
+  </artifact>
+</component>
