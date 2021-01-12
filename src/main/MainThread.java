@@ -119,6 +119,7 @@ public class MainThread extends Thread{
                     clientAttuale.send(risposta);
                 }
                 //TODO CHECK IF HA VINTO
+                //da fare entro sabato
 
             }
         }
