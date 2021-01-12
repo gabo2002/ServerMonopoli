@@ -60,9 +60,6 @@ public class Main {
     }
 
     public static void main(String[] args) {
-
-        System.out.println("12ciao".substring(0,2));
-
         Main main = new Main();
         main.run();
     }

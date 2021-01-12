@@ -36,8 +36,6 @@ public class LeggiXml {
             Document doc = builder.parse(file);
             doc.getDocumentElement().normalize();
 
-            System.out.println("Elemento radice: "+doc.getDocumentElement().getNodeName());
-
             //lista di eventi
             NodeList nList = doc.getElementsByTagName(nomeElemento);
 
