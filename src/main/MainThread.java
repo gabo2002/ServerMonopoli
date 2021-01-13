@@ -100,6 +100,7 @@ public class MainThread extends Thread{
                     resoconto += ""+StatusCode.BANCAROTTA+",";
                 }
                 //TODO CICLO COMPETO
+                //applicare delle modifiche
                 clientAttuale.send(resoconto+clientAttuale.getGiocatore().toString());
                 for(int j=0;j<clients.size();j++)
                     if(j != i)
