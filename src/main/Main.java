@@ -43,7 +43,8 @@ public class Main {
                 System.out.println("Nuova connessione da: "+newUser.getInetAddress().getHostAddress());
                 log.append("Nuova connessione da: "+newUser.getInetAddress().getHostAddress());
 
-                if(gioco.getGiocatori() == 8 || gioco.isRunning()){
+                //TODO mettere a 8
+                if(gioco.getGiocatori() == 100 || gioco.isRunning()){
                     PrintWriter writer = new PrintWriter(new BufferedWriter(new OutputStreamWriter(newUser.getOutputStream())),true);
                     writer.println(ErrorCode.ERROR_MAX_CLIENT);
                     writer.close();

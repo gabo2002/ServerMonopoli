@@ -34,7 +34,8 @@ public class MainThread extends Thread{
     @Override
     public void run(){
         //aspetta fin quando tutti i giocatori sono pronti
-        while(this.getGiocatori() < 3 || !pronti()){
+        //TODO CHANGE
+        while(this.getGiocatori() < 100 || !pronti()){
             try {
                 Thread.sleep(500);
             } catch (InterruptedException e) {
