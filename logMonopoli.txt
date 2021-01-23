@@ -1,0 +1,22 @@
+Ora: 23-01-2021 10:01:36 : Nuova connessione da: 127.0.0.1
+Ora: 23-01-2021 10:01:36 : Server avviato!
+Ora: 23-01-2021 10:02:38 : Nuova connessione da: 127.0.0.1
+Ora: 23-01-2021 10:02:38 : Server avviato!
+Ora: 23-01-2021 10:06:11 : Nuova connessione da: 127.0.0.1
+Ora: 23-01-2021 10:06:11 : Server avviato!
+Ora: 23-01-2021 10:07:53 : Nuova connessione da: 127.0.0.1
+Ora: 23-01-2021 10:07:53 : Server avviato!
+Ora: 23-01-2021 10:09:13 : Nuova connessione da: 127.0.0.1
+Ora: 23-01-2021 10:09:13 : Server avviato!
+Ora: 23-01-2021 10:13:12 : Server avviato!
+Ora: 23-01-2021 10:13:12 : Server in ascolto sulla porta 50000
+Ora: 23-01-2021 10:13:12 : Server avviato!
+Ora: 23-01-2021 10:13:12 : Server avviato!
+Ora: 23-01-2021 10:13:12 : Lettura file completata!
+Ora: 23-01-2021 10:32:54 : Server avviato!
+Ora: 23-01-2021 10:32:54 : Server in ascolto sulla porta 50000
+Ora: 23-01-2021 10:32:54 : Server avviato!
+Ora: 23-01-2021 10:32:54 : Server avviato!
+Ora: 23-01-2021 10:32:54 : Lettura file completata!
+Ora: 23-01-2021 10:33:11 : Nuova connessione da: 127.0.0.1
+Ora: 23-01-2021 10:33:11 : Server avviato!

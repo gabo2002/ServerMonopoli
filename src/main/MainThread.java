@@ -48,6 +48,7 @@ public class MainThread extends Thread{
             clients.get(i).setId(i);
             clients.get(i).getGiocatore().setId(i);
             clients.get(i).send("ID:"+i);
+            //TODO
         }
 
         for(int i=0;i<clients.size();i++)
