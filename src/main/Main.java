@@ -24,7 +24,8 @@ public class Main {
         try {
             address = InetAddress.getLocalHost();
             System.out.println(address.getHostAddress());
-            this.socket = new ServerSocket(port,maxReq,address);
+            //this.socket = new ServerSocket(port,maxReq,address);
+            this.socket = new ServerSocket(port);
             log.append("Server in ascolto sulla porta "+port);
 
         } catch (IOException e) {
